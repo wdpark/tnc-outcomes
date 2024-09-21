@@ -67,25 +67,24 @@ def tabular():
     label = 'num'
 
     #trains model
-    time_limit = 700
     metric = 'roc_auc'
-    predictor = TabularPredictor(label=label, eval_metric=metric).fit(train_data, presets='best_quality')
+    predictor = TabularPredictor(label=label, eval_metric=metric).fit(train_data, auto_stack=True, presets='best_quality')
 
     #creates csv file with ranked feature importance
     importance_data = predictor.feature_importance(test_data)
     importance_data.to_csv('importance_data.csv', encoding='UTF-8')
 
     #creates csv file with model leaderboard
-    leaderboard_data = predictor.leaderboard(test_data, silent=True)
+    leaderboard_data = predictor.leaderboard(test_data, extra_metrics=['accuracy'], silent=True)
     leaderboard_data.to_csv('leaderboard_data.csv', encoding='UTF-8')
 
-
+"""
     auto.analyze(model=predictor, label=label, train_data=train_data, val_data=test_data, anlz_facets=[
     eda.model.AutoGluonModelEvaluator(),
 ], viz_facets=[
     viz.model.ConfusionMatrix(fig_args=dict(figsize=(5,5)), headers=True, annot_kws={"size": 12}),
 ])
-    
+"""    
 
 #split()
 tabular()
