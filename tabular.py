@@ -6,15 +6,32 @@ import autogluon.eda.visualization as viz
 import autogluon.eda.auto as auto
 
 #Generates a new randomized training and test dataset
-#data (n=682)
-#training (n=478) roughly 70%
-#testing (n=204) roughly 30%
+#data (n=303)
+#training roughly 70%
+#testing roughly 30%
+
+#Cleveland Heart Data
+#    -- Only 14 used
+#      -- 1. #3  (age)       
+#      -- 2. #4  (sex)       
+#      -- 3. #9  (cp)        
+#      -- 4. #10 (trestbps)  
+#      -- 5. #12 (chol)      
+#      -- 6. #16 (fbs)       
+#      -- 7. #19 (restecg)   
+#      -- 8. #32 (thalach)   
+#      -- 9. #38 (exang)     
+#      -- 10. #40 (oldpeak)   
+#      -- 11. #41 (slope)     
+#      -- 12. #44 (ca)        
+#      -- 13. #51 (thal)      
+#      -- 14. #58 (num)       (the predicted attribute)
 
 def split():
     data = []
 
     #opens data into a list of lists
-    with open("data.csv", "r", encoding='utf-8-sig') as f:
+    with open("processed.cleveland.csv", "r", encoding='utf-8-sig') as f:
         data_reader = csv.reader(f)
         header = next(data_reader)
         for row in data_reader:
@@ -23,8 +40,8 @@ def split():
     random.shuffle(data)
 
     #splits data into aforementioned ratio
-    train_data = data[:478]
-    test_data = data[478:]
+    train_data = data[:212]
+    test_data = data[212:]
 
     #creates csv file with training data
     with open('train_data.csv', 'w', newline='') as g:
@@ -40,7 +57,6 @@ def split():
         for row in test_data:
             writer.writerows([row])
 
-#split()
 
 #Uses data to train and test multi-layer model
 def tabular():
@@ -48,7 +64,7 @@ def tabular():
     test_data = TabularDataset('test_data.csv')
 
     #the value we want to predict
-    label = 'Potassium'
+    label = 'num'
 
     #trains model
     time_limit = 700
@@ -71,4 +87,5 @@ def tabular():
 ])
     
 
+#split()
 tabular()
