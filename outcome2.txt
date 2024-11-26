@@ -1,0 +1,14 @@
+                      model  score_val  pred_time_val   fit_time  pred_time_val_marginal  fit_time_marginal  stack_level  can_infer  fit_order
+0       WeightedEnsemble_L2   0.655309       0.474349  26.593923                0.000998           0.175755            2       True         13
+1     ExtraTreesGini_BAG_L1   0.629265       0.049000   0.269902                0.049000           0.269902            1       True          8
+2         LightGBMXT_BAG_L1   0.628513       0.047324   0.465000                0.047324           0.465000            1       True          3
+3     ExtraTreesEntr_BAG_L1   0.625615       0.049691   0.266228                0.049691           0.266228            1       True          9
+4   RandomForestEntr_BAG_L1   0.606232       0.049998   0.433603                0.049998           0.433603            1       True          6
+5   RandomForestGini_BAG_L1   0.597376       0.051388   0.335917                0.051388           0.335917            1       True          5
+6           CatBoost_BAG_L1   0.592383       0.066207  18.179481                0.066207          18.179481            1       True          7
+7           LightGBM_BAG_L1   0.569739       0.045666   0.518591                0.045666           0.518591            1       True          4
+8     NeuralNetTorch_BAG_L1   0.562826       0.107296   3.769606                0.107296           3.769606            1       True         11
+9      LightGBMLarge_BAG_L1   0.557030       0.041499   1.613428                0.041499           1.613428            1       True         12
+10           XGBoost_BAG_L1   0.549026       0.051667   1.328931                0.051667           1.328931            1       True         10
+11    KNeighborsDist_BAG_L1   0.541274       0.015000   0.007000                0.015000           0.007000            1       True          2
+12    KNeighborsUnif_BAG_L1   0.532367       0.052755   0.004507                0.052755           0.004507            1       True          1

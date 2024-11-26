@@ -1,0 +1,369 @@
+,importance,stddev,p_value,n,p99_high,p99_low
+ACEi or ARB Medications (choice=Olmesartan),0.0012820512820512775,0.0028667538173074124,0.18695048315002946,5,0.007184737014635739,-0.004620634450533184
+Systolic Blood pressure (rest),0.0012820512820512775,0.0028667538173074124,0.18695048315002946,5,0.007184737014635739,-0.004620634450533184
+Anticoagulation Medication (choice=Apixaban),0.0012820512820512775,0.0028667538173074124,0.18695048315002946,5,0.007184737014635739,-0.004620634450533184
+Was a Nuclear Stress Test Performed,0.0012820512820512775,0.0028667538173074124,0.18695048315002946,5,0.007184737014635739,-0.004620634450533184
+Weight (kg),0.0012820512820512775,0.0028667538173074124,0.18695048315002946,5,0.007184737014635739,-0.004620634450533184
+Pre Calcium,0.0012820512820512775,0.0028667538173074124,0.18695048315002946,5,0.007184737014635739,-0.004620634450533184
+LCx (choice=Mid),0.0,0.0,0.5,5,0.0,0.0
+"Mid LCx Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+Distal LCx Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).11,0.0,0.0,0.5,5,0.0,0.0
+"Distal LCx Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+Mid LCx Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).7,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).10,0.0,0.0,0.5,5,0.0,0.0
+Distal RCA Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+Proximal LCx Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+LCx (choice=Distal),0.0,0.0,0.5,5,0.0,0.0
+FFR.9,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).9,0.0,0.0,0.5,5,0.0,0.0
+LCx (choice=Proximal),0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=FFR).9,0.0,0.0,0.5,5,0.0,0.0
+"Proximal LCx Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+LCX Stenosis,0.0,0.0,0.5,5,0.0,0.0
+LCx (choice=Unspecified),0.0,0.0,0.5,5,0.0,0.0
+Diagonal 1 (choice=Proximal),0.0,0.0,0.5,5,0.0,0.0
+Diagonal 1 (choice=Distal),0.0,0.0,0.5,5,0.0,0.0
+Diagonal 1 (choice=Mid),0.0,0.0,0.5,5,0.0,0.0
+Mid RCA Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+"Distal Diagonal 2 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+Mid Diagonal 2 Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).18,0.0,0.0,0.5,5,0.0,0.0
+"Mid Diagonal 2 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+Proximal Diagonal 2 Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).17,0.0,0.0,0.5,5,0.0,0.0
+"Proximal Diagonal 2 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+Diagonal 2 (choice=Distal),0.0,0.0,0.5,5,0.0,0.0
+Diagonal 2 (choice=Mid),0.0,0.0,0.5,5,0.0,0.0
+Diagonal 2 (choice=Proximal),0.0,0.0,0.5,5,0.0,0.0
+Distal Diagonal 1 Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).15,0.0,0.0,0.5,5,0.0,0.0
+"Distal Diagonal 1 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+Mid Diagonal 1 Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).14,0.0,0.0,0.5,5,0.0,0.0
+"Mid Diagonal 1 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+Proximal Diagonal 1 Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).13,0.0,0.0,0.5,5,0.0,0.0
+"Proximal Diagonal 1 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+"Distal RCA Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+"Mid RCA degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).6,0.0,0.0,0.5,5,0.0,0.0
+Obtuse Marginal 1 (choice=Proximal),0.0,0.0,0.5,5,0.0,0.0
+LAD (choice=Unspecified),0.0,0.0,0.5,5,0.0,0.0
+LAD (choice=Distal),0.0,0.0,0.5,5,0.0,0.0
+LAD (choice=Mid),0.0,0.0,0.5,5,0.0,0.0
+LAD (choice=Proximal),0.0,0.0,0.5,5,0.0,0.0
+Which of the following vessel(s) are affected (select all that apply): (choice=PDA),0.0,0.0,0.5,5,0.0,0.0
+Which of the following vessel(s) are affected (select all that apply): (choice=Obtuse marginal 2),0.0,0.0,0.5,5,0.0,0.0
+Which of the following vessel(s) are affected (select all that apply): (choice=Obtuse marginal 1),0.0,0.0,0.5,5,0.0,0.0
+Which of the following vessel(s) are affected (select all that apply): (choice=Diagonal 2),0.0,0.0,0.5,5,0.0,0.0
+Which of the following vessel(s) are affected (select all that apply): (choice=Diagonal 1),0.0,0.0,0.5,5,0.0,0.0
+Which of the following vessel(s) are affected (select all that apply): (choice=LCx),0.0,0.0,0.5,5,0.0,0.0
+Which of the following vessel(s) are affected (select all that apply): (choice=RCA),0.0,0.0,0.5,5,0.0,0.0
+Which of the following vessel(s) are affected (select all that apply): (choice=LAD),0.0,0.0,0.5,5,0.0,0.0
+Are there notable LHC findings,0.0,0.0,0.5,5,0.0,0.0
+Was a Pre-Transplant Left Heart Cath Performed,0.0,0.0,0.5,5,0.0,0.0
+Diastolic Blood pressure (peak),0.0,0.0,0.5,5,0.0,0.0
+Systolic Blood pressure (peak),0.0,0.0,0.5,5,0.0,0.0
+"Exercise Capacity (Very Poor=0, Poor=1, Below Average=2, Average=3, Above Average=4, Good=5)",0.0,0.0,0.5,5,0.0,0.0
+Peak Heart rate ,0.0,0.0,0.5,5,0.0,0.0
+Target HR achieved,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=FFR),0.0,0.0,0.5,5,0.0,0.0
+LAD Stenosis,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=FFR).1,0.0,0.0,0.5,5,0.0,0.0
+Distal LAD Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+Proximal RCA Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).5,0.0,0.0,0.5,5,0.0,0.0
+"Proximal RCA Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+RCA Stenosis,0.0,0.0,0.5,5,0.0,0.0
+RCA (choice=Unspecified),0.0,0.0,0.5,5,0.0,0.0
+RCA (choice=Distal),0.0,0.0,0.5,5,0.0,0.0
+RCA (choice=Mid),0.0,0.0,0.5,5,0.0,0.0
+RCA (choice=Proximal),0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).3,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).1,0.0,0.0,0.5,5,0.0,0.0
+"Distal LAD Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+Mid LAD Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+FFR.2,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).2,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=FFR).2,0.0,0.0,0.5,5,0.0,0.0
+"Mid LAD Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+Proximal LAD Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+FFR.1,0.0,0.0,0.5,5,0.0,0.0
+Distal Diagonal 2 Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+Age,0.0,0.0,0.5,5,0.0,0.0
+Obtuse Marginal 1 (choice=Mid),0.0,0.0,0.5,5,0.0,0.0
+Which of the following vessel(s) are affected (select all that apply): (choice=LAD).1,0.0,0.0,0.5,5,0.0,0.0
+"Proximal RCA Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2).1",0.0,0.0,0.5,5,0.0,0.0
+RCA (choice=Distal).1,0.0,0.0,0.5,5,0.0,0.0
+RCA (choice=Mid).1,0.0,0.0,0.5,5,0.0,0.0
+RCA (choice=Proximal).1,0.0,0.0,0.5,5,0.0,0.0
+Distal LAD Degree of Stenosis %.1,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected.3,0.0,0.0,0.5,5,0.0,0.0
+"Distal LAD Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2).1",0.0,0.0,0.5,5,0.0,0.0
+Mid LAD Degree of Stenosis %.1,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected.2,0.0,0.0,0.5,5,0.0,0.0
+"Mid LAD Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2).1",0.0,0.0,0.5,5,0.0,0.0
+Proximal LAD Degree of Stenosis %.1,0.0,0.0,0.5,5,0.0,0.0
+"Proximal LAD Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2).1",0.0,0.0,0.5,5,0.0,0.0
+LAD (choice=Distal).1,0.0,0.0,0.5,5,0.0,0.0
+LAD (choice=Mid).1,0.0,0.0,0.5,5,0.0,0.0
+LAD (choice=Proximal).1,0.0,0.0,0.5,5,0.0,0.0
+Which of the following vessel(s) are affected (select all that apply): (choice=Obtuse marginal 2).1,0.0,0.0,0.5,5,0.0,0.0
+Which of the following vessel(s) are affected (select all that apply): (choice=Obtuse marginal 1).1,0.0,0.0,0.5,5,0.0,0.0
+Which of the following vessel(s) are affected (select all that apply): (choice=Diagonal 1).1,0.0,0.0,0.5,5,0.0,0.0
+Which of the following vessel(s) are affected (select all that apply): (choice=LCx).1,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected.5,0.0,0.0,0.5,5,0.0,0.0
+Proximal RCA Degree of Stenosis %.1,0.0,0.0,0.5,5,0.0,0.0
+"Mid RCA degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2).1",0.0,0.0,0.5,5,0.0,0.0
+"Mid LCx Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2).1",0.0,0.0,0.5,5,0.0,0.0
+"Mid Diagonal 1 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2).1",0.0,0.0,0.5,5,0.0,0.0
+Proximal Diagonal 1 Degree of Stenosis %.1,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected.13,0.0,0.0,0.5,5,0.0,0.0
+"Proximal Diagonal 1 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2).1",0.0,0.0,0.5,5,0.0,0.0
+Diagonal 1 (choice=Mid).1,0.0,0.0,0.5,5,0.0,0.0
+Diagonal 1 (choice=Proximal).1,0.0,0.0,0.5,5,0.0,0.0
+"Distal LCx Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2).1",0.0,0.0,0.5,5,0.0,0.0
+Mid LCx Degree of Stenosis %.1,0.0,0.0,0.5,5,0.0,0.0
+Proximal LCx Degree of Stenosis %.1,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected.6,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected.9,0.0,0.0,0.5,5,0.0,0.0
+"Proximal LCx Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2).1",0.0,0.0,0.5,5,0.0,0.0
+LCx (choice=Mid).1,0.0,0.0,0.5,5,0.0,0.0
+LCx (choice=Proximal).1,0.0,0.0,0.5,5,0.0,0.0
+Distal RCA Degree of Stenosis %.1,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected.7,0.0,0.0,0.5,5,0.0,0.0
+"Distal RCA Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2).1",0.0,0.0,0.5,5,0.0,0.0
+Mid RCA Degree of Stenosis %.1,0.0,0.0,0.5,5,0.0,0.0
+Which of the following vessel(s) are affected (select all that apply): (choice=RCA).1,0.0,0.0,0.5,5,0.0,0.0
+Are there notable LHC findings.1,0.0,0.0,0.5,5,0.0,0.0
+"Race (White=0, AA=1, Asian=2, Hispanic Latino=3, Other=4)",0.0,0.0,0.5,5,0.0,0.0
+Was a Post-Transplant Left Heart Cath Performed ,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).25,0.0,0.0,0.5,5,0.0,0.0
+"Proximal Obtuse Marginal 2 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+Obtuse Marginal 2 Stenosis,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).24,0.0,0.0,0.5,5,0.0,0.0
+Obtuse Marginal 2 (choice=Unspecified),0.0,0.0,0.5,5,0.0,0.0
+Obtuse Marginal 2 (choice=Distal),0.0,0.0,0.5,5,0.0,0.0
+Obtuse Marginal 2 (choice=Mid),0.0,0.0,0.5,5,0.0,0.0
+Obtuse Marginal 2 (choice=Proximal),0.0,0.0,0.5,5,0.0,0.0
+Distal Obtuse Marginal 1 Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).23,0.0,0.0,0.5,5,0.0,0.0
+"Distal Obtuse Marginal 1 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+Mid Obtuse Marginal 1 Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).22,0.0,0.0,0.5,5,0.0,0.0
+"Mid Obtuse Marginal 1 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+Proximal Obtuse Marginal 1 Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).21,0.0,0.0,0.5,5,0.0,0.0
+"Proximal Obtuse Marginal 1 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+Obtuse Marginal 1 (choice=Unspecified),0.0,0.0,0.5,5,0.0,0.0
+Obtuse Marginal 1 (choice=Distal),0.0,0.0,0.5,5,0.0,0.0
+Proximal Obtuse Marginal 2 Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+"Mid Obtuse Marginal 2 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).26,0.0,0.0,0.5,5,0.0,0.0
+Proximal PDA Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+Days from Transplant to LHC Post-transplant,0.0,0.0,0.5,5,0.0,0.0
+"If yes, where",0.0,0.0,0.5,5,0.0,0.0
+Was there intervention,0.0,0.0,0.5,5,0.0,0.0
+Distal PDA Marginal 2 Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).31,0.0,0.0,0.5,5,0.0,0.0
+"Distal PDA Marginal 2 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+Mid PDA Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+"Mid PDA Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+IFR.29,0.0,0.0,0.5,5,0.0,0.0
+Mid Obtuse Marginal 2 Degree of Stenosis %,0.0,0.0,0.5,5,0.0,0.0
+Was an FFR or IFR collected (choice=neither).29,0.0,0.0,0.5,5,0.0,0.0
+"Proximal PDA Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+PDA Stenosis,0.0,0.0,0.5,5,0.0,0.0
+Posterior Descending Artery (choice=Unspecified),0.0,0.0,0.5,5,0.0,0.0
+Posterior Descending Artery (choice=Distal),0.0,0.0,0.5,5,0.0,0.0
+Posterior Descending Artery (choice=Mid),0.0,0.0,0.5,5,0.0,0.0
+Posterior Descending Artery (choice=Proximal),0.0,0.0,0.5,5,0.0,0.0
+"Distal Obtuse Marginal 2 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.0,0.0,0.5,5,0.0,0.0
+Number of segments with Wall Motion Abnormalities,0.0,0.0,0.5,5,0.0,0.0
+Wall motion abnormalities,0.0,0.0,0.5,5,0.0,0.0
+CCB Medication (choice=Diltiazem),0.0,0.0,0.5,5,0.0,0.0
+BMI,0.0,0.0,0.5,5,0.0,0.0
+Anticoagulation Medication (choice=Rivaroxaban),0.0,0.0,0.5,5,0.0,0.0
+Anticoagulation Medication (choice=Enoxaparin),0.0,0.0,0.5,5,0.0,0.0
+Antiplatelet (choice=other),0.0,0.0,0.5,5,0.0,0.0
+Antiplatelet (choice=None),0.0,0.0,0.5,5,0.0,0.0
+Antiplatelet (choice=Ticagrelor),0.0,0.0,0.5,5,0.0,0.0
+Antiplatelet (choice=Clopidogrel),0.0,0.0,0.5,5,0.0,0.0
+Aspirin ,0.0,0.0,0.5,5,0.0,0.0
+Height (cm),0.0,0.0,0.5,5,0.0,0.0
+Most Recent Urine Creatinine ,0.0,0.0,0.5,5,0.0,0.0
+Post Hemoglobin,0.0,0.0,0.5,5,0.0,0.0
+Most Recent Urine Pro/Cre Ratio,0.0,0.0,0.5,5,0.0,0.0
+Most Recent eGFR,0.0,0.0,0.5,5,0.0,0.0
+Most Recent Cystatin,0.0,0.0,0.5,5,0.0,0.0
+Most Recent Vitamin D,0.0,0.0,0.5,5,0.0,0.0
+Most Recent PTH,0.0,0.0,0.5,5,0.0,0.0
+Most Recent Calcium,0.0,0.0,0.5,5,0.0,0.0
+Most Recent Total Cholesterol,0.0,0.0,0.5,5,0.0,0.0
+Post eGFR,0.0,0.0,0.5,5,0.0,0.0
+Anticoagulation Medication (choice=Warfarin),0.0,0.0,0.5,5,0.0,0.0
+Anticoagulation Medication (choice=None),0.0,0.0,0.5,5,0.0,0.0
+Anticoagulation Medication (choice=other),0.0,0.0,0.5,5,0.0,0.0
+Beta Blocker Medications (choice=Metoprolol),0.0,0.0,0.5,5,0.0,0.0
+Nitrates,0.0,0.0,0.5,5,0.0,0.0
+Hydralazine  ,0.0,0.0,0.5,5,0.0,0.0
+CCB Medication (choice=other),0.0,0.0,0.5,5,0.0,0.0
+CCB Medication (choice=None),0.0,0.0,0.5,5,0.0,0.0
+"Electrocardiogr (ECG) Changes (None=0, ST Depression=1, ST Elevation=2)",0.0,0.0,0.5,5,0.0,0.0
+CCB Medication (choice=Verapil),0.0,0.0,0.5,5,0.0,0.0
+CCB Medication (choice=Nifedipine),0.0,0.0,0.5,5,0.0,0.0
+CCB Medication (choice=lodipine),0.0,0.0,0.5,5,0.0,0.0
+ACEi or ARB Medications (choice=Losartan),0.0,0.0,0.5,5,0.0,0.0
+ACEi or ARB Medications (choice=Telmisartan),0.0,0.0,0.5,5,0.0,0.0
+ACEi or ARB Medications (choice=Irbesartan),0.0,0.0,0.5,5,0.0,0.0
+ACEi or ARB Medications (choice=Lisinopril),0.0,0.0,0.5,5,0.0,0.0
+Beta Blocker Medications (choice=Other),0.0,0.0,0.5,5,0.0,0.0
+Beta Blocker Medications (choice=None),0.0,0.0,0.5,5,0.0,0.0
+Beta Blocker Medications (choice=Labetalol),0.0,0.0,0.5,5,0.0,0.0
+Beta Blocker Medications (choice=Atenolol),0.0,0.0,0.5,5,0.0,0.0
+Beta Blocker Medications (choice=Carvedilol),0.0,0.0,0.5,5,0.0,0.0
+Post Cystatin,0.0,0.0,0.5,5,0.0,0.0
+Post Vitamin D,0.0,0.0,0.5,5,0.0,0.0
+Diuretic Medications (choice=Hydrochlorothiazide),0.0,0.0,0.5,5,0.0,0.0
+Cause of ESKD (choice=Unknown),0.0,0.0,0.5,5,0.0,0.0
+History of Kidney Biopsy,0.0,0.0,0.5,5,0.0,0.0
+Family history of CKD,0.0,0.0,0.5,5,0.0,0.0
+"What type of transplant (None=0, Kidney=1, Heart=2, Kidney/Pancreas=3, Kidney/Liver=4, Liver=5, Corneal=6)",0.0,0.0,0.5,5,0.0,0.0
+History of Prior Transplant,0.0,0.0,0.5,5,0.0,0.0
+History of Gout,0.0,0.0,0.5,5,0.0,0.0
+History of drug treated hypotension,0.0,0.0,0.5,5,0.0,0.0
+History of Kidney Stones,0.0,0.0,0.5,5,0.0,0.0
+Cause of ESKD (choice=Other),0.0,0.0,0.5,5,0.0,0.0
+Cause of ESKD (choice=Neoplasms),0.0,0.0,0.5,5,0.0,0.0
+Post PTH,0.0,0.0,0.5,5,0.0,0.0
+Cause of ESKD (choice=CAKUT/Cystic/Congenital/Other AKUT),0.0,0.0,0.5,5,0.0,0.0
+Cause of ESKD (choice=ARPKD),0.0,0.0,0.5,5,0.0,0.0
+Cause of ESKD (choice=ADPKD),0.0,0.0,0.5,5,0.0,0.0
+Cause of ESKD (choice=Interstitial nephritis/Pyelonephritis),0.0,0.0,0.5,5,0.0,0.0
+Cause of ESKD (choice=Glomerulonephritis),0.0,0.0,0.5,5,0.0,0.0
+Cause of ESKD (choice=Renovascular Hypertension),0.0,0.0,0.5,5,0.0,0.0
+Cause of ESKD (choice=Diabetes I),0.0,0.0,0.5,5,0.0,0.0
+Cause of ESKD (choice=FSGS),0.0,0.0,0.5,5,0.0,0.0
+"Dialysis Access (None=0, CVC=1, PD cath=2, AVF=3, AVG=4)",0.0,0.0,0.5,5,0.0,0.0
+Residual Renal Function,0.0,0.0,0.5,5,0.0,0.0
+Urine Output (mL),0.0,0.0,0.5,5,0.0,0.0
+Systolic Blood Pressure,0.0,0.0,0.5,5,0.0,0.0
+Post Calcium,0.0,0.0,0.5,5,0.0,0.0
+Post Triglycerides,0.0,0.0,0.5,5,0.0,0.0
+Post Total Cholesterol,0.0,0.0,0.5,5,0.0,0.0
+Pre eGFR,0.0,0.0,0.5,5,0.0,0.0
+Pre Cystatin,0.0,0.0,0.5,5,0.0,0.0
+Pre Hemoglobin,0.0,0.0,0.5,5,0.0,0.0
+Pre Vitamin D,0.0,0.0,0.5,5,0.0,0.0
+Pre PTH,0.0,0.0,0.5,5,0.0,0.0
+Pre Triglycerides,0.0,0.0,0.5,5,0.0,0.0
+Pre HDL-C,0.0,0.0,0.5,5,0.0,0.0
+Pre LDL-C,0.0,0.0,0.5,5,0.0,0.0
+OSA,0.0,0.0,0.5,5,0.0,0.0
+Days from Pretransplant to Transplant,0.0,0.0,0.5,5,0.0,0.0
+Financial Concerns,0.0,0.0,0.5,5,0.0,0.0
+Diastolic Blood Pressure Pre Transplant,0.0,0.0,0.5,5,0.0,0.0
+Systolic Blood Pressure Pre Transplant,0.0,0.0,0.5,5,0.0,0.0
+Diastolic Blood Pressure,0.0,0.0,0.5,5,0.0,0.0
+Diuretic Medications (choice=Furosemide),0.0,0.0,0.5,5,0.0,0.0
+Was there intervention.1,0.0,0.0,0.5,5,0.0,0.0
+Diuretic Medications (choice=Spironolactone),0.0,0.0,0.5,5,0.0,0.0
+LA max 2ch length,0.0,0.0,0.5,5,0.0,0.0
+Cardiac Index,0.0,0.0,0.5,5,0.0,0.0
+Cardiac Output,0.0,0.0,0.5,5,0.0,0.0
+Mean Pulmonary Capillary Wedge Pressure (PCWP),0.0,0.0,0.5,5,0.0,0.0
+Mean Pulmonary Artery Pressure (PAP),0.0,0.0,0.5,5,0.0,0.0
+Diastolic Pulmonary Artery Pressure (PAP),0.0,0.0,0.5,5,0.0,0.0
+Systolic Pulmonary Artery Pressure (PAP),0.0,0.0,0.5,5,0.0,0.0
+Mean Right Atrial Pressure (RAP),0.0,0.0,0.5,5,0.0,0.0
+"Right Heart Cath Timepoint (pre-transplant=0, post-transplant=1)",0.0,0.0,0.5,5,0.0,0.0
+Days Between Transplant to RHC,0.0,0.0,0.5,5,0.0,0.0
+Was a Right Heart Cath Performed,0.0,0.0,0.5,5,0.0,0.0
+LAV min index  ,0.0,0.0,0.5,5,0.0,0.0
+LAV min  ,0.0,0.0,0.5,5,0.0,0.0
+LA min 2ch length,0.0,0.0,0.5,5,0.0,0.0
+Diuretic Medications (choice=Eplerenone),0.0,0.0,0.5,5,0.0,0.0
+LA min 4ch area,0.0,0.0,0.5,5,0.0,0.0
+LAV max index,0.0,0.0,0.5,5,0.0,0.0
+LAV max,0.0,0.0,0.5,5,0.0,0.0
+Mixed Venous Oxygen Saturation,0.0,0.0,0.5,5,0.0,0.0
+Is the above value 0=0 or 1=1,0.0,0.0,0.5,5,0.0,0.0
+Systemic Vascular Resistance,0.0,0.0,0.5,5,0.0,0.0
+Total Calcium Score,0.0,0.0,0.5,5,0.0,0.0
+Days Between Transplant and Stress Echo,0.0,0.0,0.5,5,0.0,0.0
+"Stress Echo Time Point (initial transplant evaluation=0, surveillance on the waiting list=1, clinical evaluation=2)",0.0,0.0,0.5,5,0.0,0.0
+Was a Stress Echo Performed,0.0,0.0,0.5,5,0.0,0.0
+RCA Calcium Score,0.0,0.0,0.5,5,0.0,0.0
+LCX Calcium Score,0.0,0.0,0.5,5,0.0,0.0
+LAD Calcium Score,0.0,0.0,0.5,5,0.0,0.0
+LM Calcium Score,0.0,0.0,0.5,5,0.0,0.0
+Ejection Fraction,0.0,0.0,0.5,5,0.0,0.0
+Pulmonary Vascular Resistance,0.0,0.0,0.5,5,0.0,0.0
+Number of Hypoperfused Segments with Stress,0.0,0.0,0.5,5,0.0,0.0
+Number of Hypoperfused Segments at Rest,0.0,0.0,0.5,5,0.0,0.0
+"Types (Exercise=0, Pharm=1)",0.0,0.0,0.5,5,0.0,0.0
+Days Between Transplant to Nuc Stress Test,0.0,0.0,0.5,5,0.0,0.0
+"Test Time Point (initial transplant evaluation=0, surveillance on the waiting list=1, clinical evaluation=2)",0.0,0.0,0.5,5,0.0,0.0
+Right Ventricular End-Diastolic Pressure,0.0,0.0,0.5,5,0.0,0.0
+PAPi,0.0,0.0,0.5,5,0.0,0.0
+LA max 4ch length,0.0,0.0,0.5,5,0.0,0.0
+LA min 4ch length,0.0,0.0,0.5,5,0.0,0.0
+Statins (choice=Pravastatin),0.0,0.0,0.5,5,0.0,0.0
+Statins (choice=Rosuvastatin),0.0,0.0,0.5,5,0.0,0.0
+LVEF,0.0,0.0,0.5,5,0.0,0.0
+"MR severity (severe=0, moderate=1, mild=2, none or trace=3)",0.0,0.0,0.5,5,0.0,0.0
+"TR Severity (severe=0, moderate=1, mild=2, none or trace=3)",0.0,0.0,0.5,5,0.0,0.0
+RVSP,0.0,0.0,0.5,5,0.0,0.0
+Was a Baseline Echo Performed ,0.0,0.0,0.5,5,0.0,0.0
+HBA1C,0.0,0.0,0.5,5,0.0,0.0
+BNP,0.0,0.0,0.5,5,0.0,0.0
+Clonidine,0.0,0.0,0.5,5,0.0,0.0
+S',0.0,0.0,0.5,5,0.0,0.0
+"RV Function (severely reduced=0, mildly reduced=2, normal=3)",0.0,0.0,0.5,5,0.0,0.0
+LVESVI,0.0,0.0,0.5,5,0.0,0.0
+Statins (choice=Atorvastatin),0.0,0.0,0.5,5,0.0,0.0
+Diuretic Medications (choice=other),0.0,0.0,0.5,5,0.0,0.0
+Diuretic Medications (choice=Chlorthalidone),0.0,0.0,0.5,5,0.0,0.0
+Diuretic Medications (choice=Torsemide),0.0,0.0,0.5,5,0.0,0.0
+Diuretic Medications (choice=Metolazone),0.0,0.0,0.5,5,0.0,0.0
+Diuretic Medications (choice=Bumetanide),0.0,0.0,0.5,5,0.0,0.0
+LA min 2ch area,-0.0012820512820512775,0.0028667538173074124,0.8130495168499705,5,0.004620634450533184,-0.007184737014635739
+LVEDVI,-0.0012820512820512775,0.0028667538173074124,0.8130495168499705,5,0.004620634450533184,-0.007184737014635739
+Days from Pretransplant LHC to Transplant,-0.0012820512820512775,0.0028667538173074124,0.8130495168499705,5,0.004620634450533184,-0.007184737014635739
+Most Recent HDL-C,-0.0012820512820512775,0.0028667538173074124,0.8130495168499705,5,0.004620634450533184,-0.007184737014635739
+Days from Echo to Transplant,-0.0012820512820512775,0.0028667538173074124,0.8130495168499705,5,0.004620634450533184,-0.007184737014635739
+Pre Total Cholesterol,-0.0012820512820512775,0.0028667538173074124,0.8130495168499705,5,0.004620634450533184,-0.007184737014635739
+LA max 2ch area,-0.002564102564102555,0.0035110420352895137,0.9110960958218894,5,0.0046651815143165685,-0.00979338664252168
+"AR severity (severe=0, moderate=1, mild=2, none or trace=3)",-0.002564102564102577,0.005733507634614875,0.8130495168499705,5,0.00924126890106645,-0.014369474029271604
+Exercise Duration,-0.0038461538461538325,0.0035110420352895137,0.96475800154489,5,0.003383130232265291,-0.011075437924572957
+LA max 4ch area,-0.0038461538461538325,0.0035110420352895137,0.96475800154489,5,0.003383130232265291,-0.011075437924572957
+Post LDL-C,-0.0038461538461538325,0.0035110420352895137,0.96475800154489,5,0.003383130232265291,-0.011075437924572957
+History of UTIs,-0.0038461538461538546,0.005733507634614868,0.8959999999999998,5,0.007959217619015158,-0.015651525311322866
+"Type (Exercise=0, Pharm=1)",-0.0038461538461538546,0.007308816827558585,0.8477206076597328,5,0.011202801020373163,-0.018895108712680873
+LV Mass,-0.0038461538461538546,0.005733507634614868,0.8959999999999998,5,0.007959217619015158,-0.015651525311322866
+Most Recent Urine Protein,-0.00512820512820511,0.0028667538173074124,0.9919349550499538,5,0.0007744806043793514,-0.011030890860789571
+ACEi or ARB Medications (choice=None),-0.0051282051282051325,0.0053632052982953765,0.9503496583931362,5,0.005914708708359851,-0.016171118964770116
+RA area,-0.005128205128205154,0.007022084070579089,0.9110960958218894,5,0.009330363028633219,-0.01958677328504353
+IVSd (cm),-0.005128205128205154,0.007022084070579089,0.9110960958218894,5,0.009330363028633219,-0.01958677328504353
+TAPSE (cm),-0.00641025641025641,0.004532735776836866,0.9829452884162949,5,0.002922709203316904,-0.015743222023829724
+Diastolic Blood pressure (rest),-0.0076923076923076875,0.0028667538173074623,0.9980587314765196,5,-0.001789621959723123,-0.013594993424892253
+BSA,-0.0076923076923076875,0.017200522903844526,0.8130495168499705,5,0.02772380670319919,-0.04310842208781456
+"AS severity (severe=0, moderate=1, mild=2, none or trace=3)",-0.01282051282051282,0.02523720472439684,0.8402848915286695,5,0.03914324052225847,-0.0647842661632841
+Cause of ESKD (choice=Diabetes II),-0.015384615384615375,0.021066252211737142,0.9110960958218894,5,0.027991089085899496,-0.05876031985513025
+"BP response to exercise (hypotension=0, normal=1, hypertension=2, flat=3)",-0.015384615384615396,0.034401045807689094,0.8130495168499705,5,0.055447613406398435,-0.08621684417562923
+Most Recent LDL-C,-0.016666666666666653,0.0229340305384594,0.9102561431496934,5,0.030554819194009247,-0.06388815252734255
+Diuretic Medications (choice=None),-0.016666666666666673,0.013292590611107522,0.9756848830713469,5,0.010702961124730376,-0.04403629445806372
+LA Volume,-0.016666666666666673,0.019548654720483234,0.9353603173996082,5,0.02358428359392999,-0.05691761692726334
+Cause of ESKD (choice=Essential Hypertension),-0.017948717948717975,0.008357951801541866,0.9956821036962242,5,-0.0007395796701730531,-0.0351578562272629
+Resting Heart Rate,-0.020512820512820506,0.02499178037130504,0.9298213066905027,5,0.030945600694809717,-0.07197124172045073
+"Proximal LAD Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",-0.02564102564102566,0.06098172304628352,0.7998262413716913,5,0.09992118496825578,-0.1512032362503071
+Post HDL-C,-0.039743589743589734,0.05740670045445667,0.9017387837157946,5,0.07845759993705692,-0.1579447794242364
+Most Recent Hemoglobin,-0.060256410256410264,0.13473742941344888,0.8130495168499705,5,0.21716981917506045,-0.337682639687881
+Most Recent Triglycerides,-0.07564102564102564,0.15138251770487457,0.8367768382799377,5,0.23605767064205935,-0.38733972192411065
+METs,-0.10128205128205128,0.23007373828690153,0.8096641493634681,5,0.37244295580767883,-0.5750070583717815
+LVPWd,-0.10769230769230771,0.2129614145862206,0.8393188291312761,5,0.330798188380272,-0.5461828037648874
+TR Peak Gradient,-0.1346153846153846,0.2725678413521705,0.8342979448280017,5,0.42660556801665495,-0.6958363372474241
+Pericardial Effusion,-0.13846153846153847,0.19046122088260392,0.9103170699823548,5,0.2537007477895688,-0.5306238247126458
+"Echo Timepoint (initial transplant evaluation=0, surveillance on the waiting list=1, clinical evaluation=2)",-0.24871794871794878,0.2217985771144473,0.9668815304255172,5,0.207968387142816,-0.7054042845787136

@@ -1,0 +1,282 @@
+,importance,stddev,p_value,n,p99_high,p99_low
+BNP,0.327077224,0.038277004,2.21E-05,5,0.405890104,0.248264344
+Diastolic Blood Pressure,0.034799609,0.008510576,0.00039706,5,0.052323003,0.017276215
+Pre HDL-C,0.034213099,0.028238234,0.026791008,5,0.092356013,-0.023929816
+Pre PTH,0.033626588,0.004404254,3.45E-05,5,0.042695009,0.024558168
+Resting Heart Rate,0.016617791,0.00453256,0.000603068,5,0.025950395,0.007285186
+Family history of CKD,0.008406647,0.008840992,0.050317867,5,0.026610373,-0.009797078
+Days from Pretransplant to Transplant,0.00742913,0.003946555,0.006797175,5,0.015555141,-0.000696881
+Pre Vitamin D,0.007233627,0.000874318,2.51E-05,5,0.009033859,0.005433394
+Pre Triglycerides,0.007233627,0.000874318,2.51E-05,5,0.009033859,0.005433394
+HBA1C,0.007038123,0.0027125,0.002194674,5,0.012623198,0.001453048
+Pre Calcium,0.007038123,0.00304446,0.003327597,5,0.013306708,0.000769539
+Systolic Blood pressure (peak),0.006647116,0.009411617,0.094711209,5,0.026025765,-0.012731533
+Age,0.006451613,0.003497272,0.007276513,5,0.013652543,-0.000749317
+IVSd (cm),0.006256109,0.002027023,0.001155921,5,0.010429777,0.002082442
+History of Kidney Biopsy,0.006256109,0.004458164,0.017459853,5,0.015435531,-0.002923312
+Anticoagulation Medication (choice=None),0.005865103,0.000977517,8.93E-05,5,0.007877824,0.003852381
+Pre Total Cholesterol,0.005278592,0.002641106,0.005541296,5,0.010716666,-0.000159481
+CCB Medication (choice=lodipine),0.005278592,0.001905532,0.001726807,5,0.009202108,0.001355076
+Urine Output (mL),0.005278592,0.004006628,0.021069568,5,0.013528295,-0.00297111
+Pericardial Effusion,0.005278592,0.00328597,0.011460185,5,0.01204445,-0.001487265
+Residual Renal Function,0.005083089,0.001748636,0.001445004,5,0.008683554,0.001482624
+Systolic Blood pressure (rest),0.005083089,0.003873238,0.021310415,5,0.01305814,-0.002891962
+Days from Echo to Transplant,0.004692082,0.000817849,0.000106419,5,0.006376046,0.003008119
+Systolic Blood Pressure,0.004496579,0.000874318,0.000163211,5,0.006296811,0.002696346
+LV Mass,0.004301075,0.000535408,2.82E-05,5,0.005403488,0.003198662
+Which of the following vessel(s) are affected (select all that apply): (choice=LAD),0.003714565,0.002119207,0.008628201,5,0.008078041,-0.000648911
+Pre eGFR,0.003714565,0.002119207,0.008628201,5,0.008078041,-0.000648911
+History of drug treated hypotension,0.003714565,0.001748636,0.004485451,5,0.00731503,0.0001141
+Cause of ESKD (choice=Essential Hypertension),0.003714565,0.000817849,0.000264656,5,0.005398528,0.002030602
+Beta Blocker Medications (choice=None),0.003323558,0.002027023,0.010730317,5,0.007497226,-0.000850109
+Diastolic Blood pressure (rest),0.003323558,0.001114541,0.001314273,5,0.005618413,0.001028703
+Peak Heart rate ,0.003323558,0.001114541,0.001314273,5,0.005618413,0.001028703
+"Type (Exercise=0, Pharm=1)",0.003323558,0.00466758,0.093278288,5,0.01293417,-0.006287054
+LVEDVI,0.003128055,0.00233379,0.020028693,5,0.007933361,-0.001677251
+Proximal Obtuse Marginal 2 Degree of Stenosis %,0.003128055,0.005758231,0.145640112,5,0.014984333,-0.008728223
+ACEi or ARB Medications (choice=None),0.002932551,0.002185795,0.019970984,5,0.007433133,-0.00156803
+RA area,0.002932551,0.000691209,0.000344455,5,0.00435576,0.001509342
+Are there notable LHC findings,0.002932551,0.00154559,0.0066178,5,0.006114943,-0.00024984
+History of Prior Transplant,0.002932551,0,0.5,5,0.002932551,0.002932551
+Anticoagulation Medication (choice=Apixaban),0.002541544,0.000874318,0.001445004,5,0.004341777,0.000741312
+LA min 2ch area,0.002541544,0.002250413,0.032492955,5,0.007175177,-0.002092088
+Proximal PDA Degree of Stenosis %,0.002541544,0.002899784,0.060789605,5,0.008512241,-0.003429152
+OSA,0.002346041,0.000874318,0.001941269,5,0.004146274,0.000545808
+Diuretic Medications (choice=None),0.002346041,0.001635699,0.016338962,5,0.005713968,-0.001021886
+Wall motion abnormalities,0.002150538,0.000437159,0.000194086,5,0.003050654,0.001250421
+Pre LDL-C,0.002150538,0.001606225,0.020093109,5,0.005457776,-0.001156701
+Which of the following vessel(s) are affected (select all that apply): (choice=RCA),0.002150538,0.001070816,0.005449849,5,0.004355363,-5.43E-05
+"MR severity (severe=0, moderate=1, mild=2, none or trace=3)",0.002150538,0.001274526,0.009777106,5,0.004774805,-0.00047373
+Diuretic Medications (choice=Spironolactone),0.002150538,0.001070816,0.005449849,5,0.004355363,-5.43E-05
+Diuretic Medications (choice=Furosemide),0.002150538,0.000817849,0.002090536,5,0.003834501,0.000466574
+"Dialysis Access (None=0, CVC=1, PD cath=2, AVF=3, AVG=4)",0.001955034,0.003785907,0.15625,5,0.00975027,-0.005840202
+LVPWd,0.001955034,0.0061436,0.258015181,5,0.014604791,-0.010694723
+Beta Blocker Medications (choice=Carvedilol),0.001955034,0.000691209,0.001599101,5,0.003378243,0.000531825
+"AR severity (severe=0, moderate=1, mild=2, none or trace=3)",0.001759531,0.001070816,0.010655821,5,0.003964356,-0.000445295
+LAD (choice=Proximal),0.001759531,0.001606225,0.035241998,5,0.005066769,-0.001547708
+Ejection Fraction,0.001759531,0.000817849,0.004290459,5,0.003443494,7.56E-05
+History of UTIs,0.001759531,0.00253024,0.097464736,5,0.006969331,-0.003450269
+CCB Medication (choice=None),0.001564027,0.001114541,0.017459853,5,0.003858883,-0.000730828
+Systolic Blood Pressure Pre Transplant,0.001564027,0.001311477,0.028,5,0.004264376,-0.001136322
+BMI,0.001564027,0.001482478,0.03887082,5,0.00461647,-0.001488416
+Diastolic Blood Pressure Pre Transplant,0.001368524,0.000874318,0.012448082,5,0.003168757,-0.000431709
+"Proximal LAD Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.001368524,0.002250413,0.122746018,5,0.006002156,-0.003265108
+LA max 4ch area,0.001173021,0.000437159,0.001941269,5,0.002073137,0.000272904
+Which of the following vessel(s) are affected (select all that apply): (choice=PDA),0.001173021,0.000437159,0.001941269,5,0.002073137,0.000272904
+History of Kidney Stones,0.001173021,0.000437159,0.001941269,5,0.002073137,0.000272904
+Distal LAD Degree of Stenosis %,0.001173021,0.001606225,0.088903904,5,0.004480259,-0.002134218
+LA Volume,0.001173021,0.000817849,0.016338962,5,0.002856984,-0.000510943
+Cause of ESKD (choice=Other),0.001173021,0.000817849,0.016338962,5,0.002856984,-0.000510943
+Hydralazine  ,0.001173021,0.000437159,0.001941269,5,0.002073137,0.000272904
+Cause of ESKD (choice=ADPKD),0.000977517,0.002492189,0.21498669,5,0.00610897,-0.004153935
+Which of the following vessel(s) are affected (select all that apply): (choice=LCx),0.000977517,0.000691209,0.017054712,5,0.002400726,-0.000445692
+"Proximal RCA Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.000977517,0.000691209,0.017054712,5,0.002400726,-0.000445692
+Obtuse Marginal 2 (choice=Unspecified),0.000977517,0,0.5,5,0.000977517,0.000977517
+Proximal Obtuse Marginal 1 Degree of Stenosis %,0.000977517,0,0.5,5,0.000977517,0.000977517
+RVSP,0.000977517,0,0.5,5,0.000977517,0.000977517
+Which of the following vessel(s) are affected (select all that apply): (choice=Obtuse marginal 1),0.000977517,0.001693109,0.133132314,5,0.004463653,-0.002508618
+"Mid RCA degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.000977517,0.001197209,0.070963724,5,0.003442587,-0.001487553
+LA min 2ch length,0.000977517,0.001197209,0.070963724,5,0.003442587,-0.001487553
+METs,0.000977517,0.000977517,0.044504671,5,0.002990238,-0.001035204
+Target HR achieved,0.000977517,0,0.5,5,0.000977517,0.000977517
+Anticoagulation Medication (choice=Rivaroxaban),0.000977517,0,0.5,5,0.000977517,0.000977517
+LAD (choice=Distal),0.000977517,0.001828767,0.149007406,5,0.004742974,-0.00278794
+CCB Medication (choice=Nifedipine),0.000977517,0,0.5,5,0.000977517,0.000977517
+LA max 2ch area,0.000782014,0.000817849,0.049650342,5,0.002465977,-0.00090195
+Which of the following vessel(s) are affected (select all that apply): (choice=Diagonal 1),0.000782014,0.000437159,0.008065045,5,0.00168213,-0.000118103
+Financial Concerns,0.000782014,0.001070816,0.088903904,5,0.002986839,-0.001422812
+RCA (choice=Distal),0.000782014,0.000437159,0.008065045,5,0.00168213,-0.000118103
+"Electrocardiogr (ECG) Changes (None=0, ST Depression=1, ST Elevation=2)",0.00058651,0.000535408,0.035241998,5,0.001688923,-0.000515903
+TAPSE (cm),0.00058651,0.002816199,0.332831713,5,0.006385104,-0.005212083
+Was an FFR or IFR collected (choice=neither).6,0.00058651,0.001311477,0.186950483,5,0.003286859,-0.002113839
+Mid LAD Degree of Stenosis %,0.00058651,0.000874318,0.104,5,0.002386743,-0.001213722
+"Stress Echo Time Point (initial transplant evaluation=0, surveillance on the waiting list=1, clinical evaluation=2)",0.00058651,0.002899784,0.33725925,5,0.006557206,-0.005384186
+LCx (choice=Proximal),0.00058651,0.001114541,0.152279392,5,0.002881366,-0.001708345
+Number of segments with Wall Motion Abnormalities,0.00058651,0.000535408,0.035241998,5,0.001688923,-0.000515903
+Which of the following vessel(s) are affected (select all that apply): (choice=Obtuse marginal 2),0.00058651,0.000874318,0.104,5,0.002386743,-0.001213722
+RCA (choice=Mid),0.00058651,0.000874318,0.104,5,0.002386743,-0.001213722
+"Mid LCx Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.000391007,0.000874318,0.186950483,5,0.002191239,-0.001409226
+Total Calcium Score,0.000391007,0.000874318,0.186950483,5,0.002191239,-0.001409226
+Mid LCx Degree of Stenosis %,0.000391007,0.000874318,0.186950483,5,0.002191239,-0.001409226
+Mid RCA Degree of Stenosis %,0.000391007,0.000535408,0.088903904,5,0.00149342,-0.000711406
+"Exercise Capacity (Very Poor=0, Poor=1, Below Average=2, Average=3, Above Average=4, Good=5)",0.000391007,0.000535408,0.088903904,5,0.00149342,-0.000711406
+LA min 4ch length,0.000391007,0.000874318,0.186950483,5,0.002191239,-0.001409226
+Mid Diagonal 1 Degree of Stenosis %,0.000391007,0.000874318,0.186950483,5,0.002191239,-0.001409226
+"Distal LCx Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.000391007,0.000874318,0.186950483,5,0.002191239,-0.001409226
+"Mid LAD Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.000391007,0.000535408,0.088903904,5,0.00149342,-0.000711406
+LCx (choice=Distal),0.000391007,0.000874318,0.186950483,5,0.002191239,-0.001409226
+Diuretic Medications (choice=Bumetanide),0.000391007,0.000874318,0.186950483,5,0.002191239,-0.001409226
+Proximal LAD Degree of Stenosis %,0.000391007,0.002027023,0.344228545,5,0.004564674,-0.003782661
+Proximal RCA Degree of Stenosis %,0.000391007,0.000535408,0.088903904,5,0.00149342,-0.000711406
+Was an FFR or IFR collected (choice=neither).3,0.000391007,0.000535408,0.088903904,5,0.00149342,-0.000711406
+Nitrates,0.000391007,0.001114541,0.238310334,5,0.002685862,-0.001903848
+Anticoagulation Medication (choice=Warfarin),0.000391007,0.000535408,0.088903904,5,0.00149342,-0.000711406
+Cause of ESKD (choice=Diabetes II),0.000391007,0.002250413,0.35871418,5,0.005024639,-0.004242625
+Obtuse Marginal 1 (choice=Proximal),0.000195503,0.000437159,0.186950483,5,0.00109562,-0.000704613
+Was Any Stress Test Positive,0.000195503,0.000437159,0.186950483,5,0.00109562,-0.000704613
+Number of Hypoperfused Segments at Rest,0.000195503,0.000437159,0.186950483,5,0.00109562,-0.000704613
+"Distal LAD Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.000195503,0.000437159,0.186950483,5,0.00109562,-0.000704613
+"Proximal PDA Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.000195503,0.000437159,0.186950483,5,0.00109562,-0.000704613
+Posterior Descending Artery (choice=Proximal),0.000195503,0.000437159,0.186950483,5,0.00109562,-0.000704613
+Was an FFR or IFR collected (choice=neither).27,0.000195503,0.000437159,0.186950483,5,0.00109562,-0.000704613
+Diagonal 1 (choice=Proximal),0.000195503,0.000437159,0.186950483,5,0.00109562,-0.000704613
+"Proximal Diagonal 1 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0.000195503,0.000817849,0.310654148,5,0.001879467,-0.00148846
+Pre Cystatin,0.000195503,0.000437159,0.186950483,5,0.00109562,-0.000704613
+Was an FFR or IFR collected (choice=neither).26,0.000195503,0.000437159,0.186950483,5,0.00109562,-0.000704613
+Was a Pre-Transplant Left Heart Cath Performed,0.000195503,0.001070816,0.352,5,0.002400329,-0.002009322
+Obtuse Marginal 2 (choice=Proximal),0.000195503,0.000437159,0.186950483,5,0.00109562,-0.000704613
+Distal Obtuse Marginal 1 Degree of Stenosis %,0.000195503,0.000437159,0.186950483,5,0.00109562,-0.000704613
+LAV max index,0.000195503,0.000437159,0.186950483,5,0.00109562,-0.000704613
+Was an FFR or IFR collected (choice=neither).23,0.000195503,0.000437159,0.186950483,5,0.00109562,-0.000704613
+"What type of transplant (None=0, Kidney=1, Heart=2, Kidney/Pancreas=3, Kidney/Liver=4, Liver=5, Corneal=6)",0.000195503,0.000437159,0.186950483,5,0.00109562,-0.000704613
+"RV Function (severely reduced=0, mildly reduced=2, normal=3)",0.000195503,0.000437159,0.186950483,5,0.00109562,-0.000704613
+"Distal RCA Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0,0.000977517,0.5,5,0.002012721,-0.002012721
+LCx (choice=Mid),0,0.000691209,0.5,5,0.001423209,-0.001423209
+FFR.2,0,0,0.5,5,0,0
+Distal RCA Degree of Stenosis %,0,0.000691209,0.5,5,0.001423209,-0.001423209
+RCA (choice=Proximal),0,0,0.5,5,0,0
+Was an FFR or IFR collected (choice=neither).5,0,0,0.5,5,0,0
+FFR.6,0,0,0.5,5,0,0
+Was an FFR or IFR collected (choice=FFR).6,0,0,0.5,5,0,0
+Was an FFR or IFR collected (choice=neither).7,0,0,0.5,5,0,0
+RCA Stenosis,0,0,0.5,5,0,0
+RCA (choice=Unspecified),0,0,0.5,5,0,0
+Beta Blocker Medications (choice=Labetalol),0,0,0.5,5,0,0
+LCx (choice=Unspecified),0,0,0.5,5,0,0
+Distal Obtuse Marginal 2 Degree of Stenosis %,0,0,0.5,5,0,0
+Obtuse Marginal 2 (choice=Mid),0,0,0.5,5,0,0
+Obtuse Marginal 2 (choice=Distal),0,0,0.5,5,0,0
+Obtuse Marginal 2 Stenosis,0,0,0.5,5,0,0
+"Proximal Obtuse Marginal 2 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0,0,0.5,5,0,0
+Cause of ESKD (choice=Diabetes I),0,0,0.5,5,0,0
+"Mid Obtuse Marginal 2 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0,0,0.5,5,0,0
+Mid Obtuse Marginal 2 Degree of Stenosis %,0,0,0.5,5,0,0
+"Distal Obtuse Marginal 2 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0,0,0.5,5,0,0
+Posterior Descending Artery (choice=Mid),0,0,0.5,5,0,0
+"Mid Obtuse Marginal 1 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0,0,0.5,5,0,0
+Posterior Descending Artery (choice=Unspecified),0,0,0.5,5,0,0
+PDA Stenosis,0,0,0.5,5,0,0
+Was an FFR or IFR collected (choice=neither).29,0,0,0.5,5,0,0
+Cause of ESKD (choice=FSGS),0,0,0.5,5,0,0
+"Mid PDA Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0,0,0.5,5,0,0
+Was an FFR or IFR collected (choice=neither).30,0,0,0.5,5,0,0
+Was there intervention,0,0,0.5,5,0,0
+"If yes, where",0,0,0.5,5,0,0
+"Distal Obtuse Marginal 1 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0,0,0.5,5,0,0
+Was an FFR or IFR collected (choice=neither).21,0,0,0.5,5,0,0
+LCX Stenosis,0,0,0.5,5,0,0
+"Mid Diagonal 1 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0,0,0.5,5,0,0
+Was an FFR or IFR collected (choice=FFR).9,0,0,0.5,5,0,0
+FFR.9,0,0,0.5,5,0,0
+Proximal LCx Degree of Stenosis %,0,0,0.5,5,0,0
+Was an FFR or IFR collected (choice=neither).10,0,0,0.5,5,0,0
+Was an FFR or IFR collected (choice=neither).11,0,0,0.5,5,0,0
+Diagonal 1 (choice=Distal),0,0,0.5,5,0,0
+Was an FFR or IFR collected (choice=neither).13,0,0,0.5,5,0,0
+Proximal Diagonal 1 Degree of Stenosis %,0,0.000691209,0.5,5,0.001423209,-0.001423209
+Was an FFR or IFR collected (choice=FFR).2,0,0,0.5,5,0,0
+"Proximal Obtuse Marginal 1 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0,0,0.5,5,0,0
+Diagonal 2 (choice=Mid),0,0,0.5,5,0,0
+Diagonal 2 (choice=Unspecified),0,0,0.5,5,0,0
+"Proximal Diagonal 2 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0,0,0.5,5,0,0
+Was an FFR or IFR collected (choice=neither).17,0,0,0.5,5,0,0
+Proximal Diagonal 2 Degree of Stenosis %,0,0,0.5,5,0,0
+"Mid Diagonal 2 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",0,0,0.5,5,0,0
+Obtuse Marginal 1 (choice=Distal),0,0,0.5,5,0,0
+Obtuse Marginal 1 (choice=Unspecified),0,0,0.5,5,0,0
+Was an FFR or IFR collected (choice=neither).14,0,0,0.5,5,0,0
+Is there obstructive CAD,0,0,0.5,5,0,0
+Mixed Venous Oxygen Saturation,0,0,0.5,5,0,0
+Mean Right Atrial Pressure (RAP),0,0,0.5,5,0,0
+CCB Medication (choice=Diltiazem),0,0,0.5,5,0,0
+CCB Medication (choice=Verapil),0,0,0.5,5,0,0
+IFR.1,0,0,0.5,5,0,0
+Anticoagulation Medication (choice=other),0,0,0.5,5,0,0
+LAV min  ,0,0,0.5,5,0,0
+LAV min index  ,0,0,0.5,5,0,0
+Systolic Pulmonary Artery Pressure (PAP),0,0,0.5,5,0,0
+Statins (choice=Pravastatin),0,0,0.5,5,0,0
+Diastolic Pulmonary Artery Pressure (PAP),0,0,0.5,5,0,0
+Mean Pulmonary Artery Pressure (PAP),0,0,0.5,5,0,0
+ACEi or ARB Medications (choice=Olmesartan),0,0,0.5,5,0,0
+Mean Pulmonary Capillary Wedge Pressure (PCWP),0,0,0.5,5,0,0
+ACEi or ARB Medications (choice=Entresto (Sacubitril-Valsartan)),0,0,0.5,5,0,0
+Cardiac Output,0,0,0.5,5,0,0
+CCB Medication (choice=other),0,0,0.5,5,0,0
+Diuretic Medications (choice=Hydrochlorothiazide),0,0,0.5,5,0,0
+LA max 4ch length,0,0,0.5,5,0,0
+Diuretic Medications (choice=Eplerenone),0,0,0.5,5,0,0
+Diuretic Medications (choice=Metolazone),0,0,0.5,5,0,0
+Diuretic Medications (choice=Torsemide),0,0,0.5,5,0,0
+"AS severity (severe=0, moderate=1, mild=2, none or trace=3)",0,0,0.5,5,0,0
+Diuretic Medications (choice=Chlorthalidone),0,0,0.5,5,0,0
+TR Peak Gradient,0,0.000691209,0.5,5,0.001423209,-0.001423209
+Anticoagulation Medication (choice=Enoxaparin),0,0,0.5,5,0,0
+Diuretic Medications (choice=other),0,0,0.5,5,0,0
+S',0,0,0.5,5,0,0
+Antiplatelet (choice=Clopidogrel),0,0,0.5,5,0,0
+Statins (choice=Rosuvastatin),0,0,0.5,5,0,0
+Antiplatelet (choice=Ticagrelor),0,0,0.5,5,0,0
+Antiplatelet (choice=None),0,0,0.5,5,0,0
+Antiplatelet (choice=other),0,0,0.5,5,0,0
+Cardiac Index,0,0,0.5,5,0,0
+Clonidine,0,0,0.5,5,0,0
+Is the above value 0=0 or 1=1,0,0,0.5,5,0,0
+"BP response to exercise (hypotension=0, normal=1, hypertension=2, flat=3)",0,0.000691209,0.5,5,0.001423209,-0.001423209
+FFR.1,0,0,0.5,5,0,0
+Beta Blocker Medications (choice=Other),0,0,0.5,5,0,0
+Was an FFR or IFR collected (choice=IFR).1,0,0,0.5,5,0,0
+Was an FFR or IFR collected (choice=FFR).1,0,0,0.5,5,0,0
+LAD Stenosis,0,0,0.5,5,0,0
+Was an FFR or IFR collected (choice=FFR),0,0,0.5,5,0,0
+LAD (choice=Unspecified),0,0,0.5,5,0,0
+Beta Blocker Medications (choice=Atenolol),0,0,0.5,5,0,0
+Cause of ESKD (choice=Renovascular Hypertension),0,0,0.5,5,0,0
+Cause of ESKD (choice=Interstitial nephritis/Pyelonephritis),0,0,0.5,5,0,0
+Cause of ESKD (choice=ARPKD),0,0,0.5,5,0,0
+Systemic Vascular Resistance,0,0,0.5,5,0,0
+Cause of ESKD (choice=Neoplasms),0,0,0.5,5,0,0
+Cause of ESKD (choice=CAKUT/Cystic/Congenital/Other AKUT),0,0,0.5,5,0,0
+Cause of ESKD (choice=Unknown),0,0,0.5,5,0,0
+Exercise Duration,0,0,0.5,5,0,0
+Pulmonary Vascular Resistance,0,0,0.5,5,0,0
+PAPi,0,0,0.5,5,0,0
+ACEi or ARB Medications (choice=Telmisartan),0,0,0.5,5,0,0
+Right Ventricular End-Diastolic Pressure,0,0,0.5,5,0,0
+ACEi or ARB Medications (choice=Irbesartan),0,0,0.5,5,0,0
+Number of Hypoperfused Segments with Stress,0,0,0.5,5,0,0
+ACEi or ARB Medications (choice=Valsartan),0,0,0.5,5,0,0
+LM Calcium Score,0,0,0.5,5,0,0
+LAD Calcium Score,0,0,0.5,5,0,0
+LCX Calcium Score,0,0,0.5,5,0,0
+RCA Calcium Score,0,0,0.5,5,0,0
+Days from Pretransplant LHC to Transplant,-2.22E-17,0.005218513,0.5,5,0.010744991,-0.010744991
+ACEi or ARB Medications (choice=Lisinopril),-0.000195503,0.000437159,0.813049517,5,0.000704613,-0.00109562
+Statins (choice=Atorvastatin),-0.000195503,0.000437159,0.813049517,5,0.000704613,-0.00109562
+Mid PDA Degree of Stenosis %,-0.000195503,0.000437159,0.813049517,5,0.000704613,-0.00109562
+Was an FFR or IFR collected (choice=neither).2,-0.000195503,0.000437159,0.813049517,5,0.000704613,-0.00109562
+"Distal Diagonal 1 Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",-0.000195503,0.000437159,0.813049517,5,0.000704613,-0.00109562
+Mid Obtuse Marginal 1 Degree of Stenosis %,-0.000195503,0.000437159,0.813049517,5,0.000704613,-0.00109562
+Diagonal 1 (choice=Mid),-0.000195503,0.000437159,0.813049517,5,0.000704613,-0.00109562
+Aspirin ,-0.000195503,0.001274526,0.625565775,5,0.002428764,-0.002819771
+LAD (choice=Mid),-0.000195503,0.000437159,0.813049517,5,0.000704613,-0.00109562
+Obtuse Marginal 1 (choice=Mid),-0.000195503,0.000437159,0.813049517,5,0.000704613,-0.00109562
+Cause of ESKD (choice=Glomerulonephritis),-0.000195503,0.000437159,0.813049517,5,0.000704613,-0.00109562
+LA max 2ch length,-0.000195503,0.000437159,0.813049517,5,0.000704613,-0.00109562
+LAV max,-0.000195503,0.000437159,0.813049517,5,0.000704613,-0.00109562
+Was an FFR or IFR collected (choice=neither).9,-0.000195503,0.000437159,0.813049517,5,0.000704613,-0.00109562
+Diagonal 2 (choice=Proximal),-0.000195503,0.000437159,0.813049517,5,0.000704613,-0.00109562
+Distal Diagonal 1 Degree of Stenosis %,-0.000195503,0.000437159,0.813049517,5,0.000704613,-0.00109562
+Distal LCx Degree of Stenosis %,-0.000195503,0.000437159,0.813049517,5,0.000704613,-0.00109562
+"Proximal LCx Degree of Stenosis % (0 to less than 29%=0, 30%-69%=1, 70% or greater=2)",-0.000391007,0.000874318,0.813049517,5,0.001409226,-0.002191239
+Which of the following vessel(s) are affected (select all that apply): (choice=Diagonal 2),-0.000391007,0.000535408,0.911096096,5,0.000711406,-0.00149342
+LA min 4ch area,-0.000391007,0.000874318,0.813049517,5,0.001409226,-0.002191239
+LVESVI,-0.000391007,0.001775748,0.675869353,5,0.003265283,-0.004047297
+"TR Severity (severe=0, moderate=1, mild=2, none or trace=3)",-0.000391007,0.000874318,0.813049517,5,0.001409226,-0.002191239
+Was an FFR or IFR collected (choice=neither).1,-0.00058651,0.000535408,0.964758002,5,0.000515903,-0.001688923
+Pre Hemoglobin,-0.000782014,0.003747857,0.667457134,5,0.006934876,-0.008498903
+Beta Blocker Medications (choice=Metoprolol),-0.000782014,0.000817849,0.950349658,5,0.00090195,-0.002465977
+LVEF,-0.000977517,0.001955034,0.836917882,5,0.003047925,-0.00500296
+ACEi or ARB Medications (choice=Losartan),-0.000977517,0.00154559,0.884900179,5,0.002204875,-0.004159909
+"Race (White=0, AA=1, Asian=2, Hispanic Latino=3, Other=4)",-0.001368524,0.000874318,0.987551918,5,0.000431709,-0.003168757
+History of Gout,-0.003323558,0.002027023,0.989269683,5,0.000850109,-0.007497226
